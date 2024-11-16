@@ -44,4 +44,3 @@ export const deletePokemon = (id) => {
       console.log("Error deleting Pokémon: ", error);
     });
 };
-

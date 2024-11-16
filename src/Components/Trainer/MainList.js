@@ -14,4 +14,3 @@ const TrainerList = ({ trainers }) => {
 };
 
 export default TrainerList;
-

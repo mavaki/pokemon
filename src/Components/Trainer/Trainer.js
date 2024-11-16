@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { getTrainers, createTrainer, deleteTrainer } from "./TrainerService";
 import "./Trainer.css";
+import { Link } from "react-router-dom"; // import link
 
 const Trainer = () => {
   const [trainers, setTrainers] = useState([]); // state to hold trainer data
@@ -44,6 +45,13 @@ const Trainer = () => {
 
   return (
     <div className="trainer-container">
+      {/* navigation link to Pokemon page */}
+      <div style={{ marginBottom: "20px" }}>
+        <Link to="/pokemon">
+          <button>Go to Pokémon Page</button>
+        </Link>
+      </div>
+
       <div className="form-container">
         <h3>Submit New Trainer</h3>
         <form onSubmit={handleSubmit}>
@@ -52,12 +60,14 @@ const Trainer = () => {
             value={newName}
             onChange={(e) => setNewName(e.target.value)}
             placeholder="Enter Trainer Name"
+            required
           />
           <input
             type="number"
             value={newExperience}
             onChange={(e) => setNewExperience(e.target.value)}
             placeholder="Enter Experience Level"
+            required
           />
           <button type="submit">Add Trainer</button>
         </form>
@@ -79,8 +89,12 @@ const Trainer = () => {
                 <td>{trainer.name}</td>
                 <td>{trainer.experience}</td>
                 <td>
-                  <button onClick={() => handleDelete(trainer.id)}>Delete</button>
-                  <button onClick={() => handleDuplicate(trainer)}>Duplicate</button>
+                  <button onClick={() => handleDelete(trainer.id)}>
+                    Delete
+                  </button>
+                  <button onClick={() => handleDuplicate(trainer)}>
+                    Duplicate
+                  </button>
                 </td>
               </tr>
             ))}
@@ -92,4 +106,3 @@ const Trainer = () => {
 };
 
 export default Trainer;
-

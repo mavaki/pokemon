@@ -1,33 +1,54 @@
+// App.js
 import React from "react";
-import { BrowserRouter as Router, Route, Routes, Link } from "react-router-dom";
+import {
+  BrowserRouter as Router,
+  Routes,
+  Route,
+  Navigate,
+} from "react-router-dom";
+import AuthModule from "./Components/Auth/Auth"; // Ensure correct path
+import AuthRegister from "./Components/Auth/AuthRegister";
+import AuthLogin from "./Components/Auth/AuthLogin";
+import ProtectedRoute from "./Components/Routes/ProtectedRoute";
 import Pokemon from "./Components/Pokemon/Pokemon";
 import Trainer from "./Components/Trainer/Trainer";
-import * as Env from "./environment";
+import { APPLICATION_ID, JAVASCRIPT_KEY, SERVER_URL } from "./environment";
 import Parse from "parse";
-import "./App.css"; // use CSS file
+import AuthContextProvider from "./Components/Auth/AuthContext"; // Ensure correct path
 
-// initialize with credentials
-Parse.initialize(Env.APPLICATION_ID, Env.JAVASCRIPT_KEY);
-Parse.serverURL = Env.SERVER_URL;
+// Initialize Parse with your credentials
+Parse.initialize(APPLICATION_ID, JAVASCRIPT_KEY);
+Parse.serverURL = SERVER_URL;
 
 function App() {
   return (
-    <Router>
-      <div className="app-container">
+    <AuthContextProvider>
+      <Router>
         <Routes>
-          <Route path="/" element={<Pokemon />} />
-          <Route path="/trainer" element={<Trainer />} />
-        </Routes>
+          {/* Authentication Routes */}
+          <Route path="/auth" element={<AuthModule />} />
+          <Route path="/auth/register" element={<AuthRegister />} />
+          <Route path="/auth/login" element={<AuthLogin />} />
 
-        {/* nav bar */}
-        <nav className="navbar">
-          <Link to="/">Pokémon</Link>
-          <Link to="/trainer">Trainer</Link>
-        </nav>
-      </div>
-    </Router>
+          {/* Protected Routes */}
+          <Route
+            path="/pokemon"
+            element={<ProtectedRoute element={<Pokemon />} />}
+          />
+          <Route
+            path="/trainer"
+            element={<ProtectedRoute element={<Trainer />} />}
+          />
+
+          {/* Redirect Root to /pokemon */}
+          <Route path="/" element={<Navigate to="/pokemon" replace />} />
+
+          {/* Wildcard Route */}
+          <Route path="*" element={<Navigate to="/auth" replace />} />
+        </Routes>
+      </Router>
+    </AuthContextProvider>
   );
 }
 
 export default App;
-

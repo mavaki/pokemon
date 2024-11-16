@@ -1,4 +1,3 @@
-
 import Parse from "parse";
 
 export const getTrainers = async () => {
@@ -26,4 +25,3 @@ export const deleteTrainer = async (id) => {
   const trainer = await query.get(id);
   return trainer.destroy();
 };
-

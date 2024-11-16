@@ -1,4 +1,3 @@
-
 .navbar {
   position: fixed;
   bottom: 0; /* put on bottom */
@@ -21,4 +20,3 @@
 .navbar a:hover {
   color: #4caf50; /* hover color */
 }
-
