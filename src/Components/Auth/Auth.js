@@ -1,27 +1,23 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import { useAuth } from "./AuthContext";
+import "./Auth.css";
 
 const AuthModule = () => {
-  const { isAuthenticated, handleLogout } = useAuth();
-
   return (
-    <div>
-      {!isAuthenticated ? (
-        <>
-          <Link to="/auth/register">
-            <button>Register</button>
-          </Link>
-          <br />
-          <Link to="/auth/login">
-            <button>Login</button>
-          </Link>
-        </>
-      ) : (
-        <button onClick={handleLogout}>Logout</button>
-      )}
+    <div className="auth-container">
+      <h1>Welcome to the Pokémon Hub</h1>
+      <p>You need to log in or register to access the Pokemon and Trainer pages.</p>
+      <div className="auth-buttons">
+        <Link to="/auth/register">
+          <button className="auth-button">Register</button>
+        </Link>
+        <Link to="/auth/login">
+          <button className="auth-button">Login</button>
+        </Link>
+      </div>
     </div>
   );
 };
 
 export default AuthModule;
+

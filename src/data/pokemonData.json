@@ -1,0 +1,7177 @@
+[
+  {
+    "Name": "Bulbasaur",
+    "Type": "grass, poison",
+    "Form Type": "Starter",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Ivysaur",
+    "Type": "grass, poison",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Venusaur",
+    "Type": "grass, poison",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 1
+  },
+  {
+    "Name": "Charmander",
+    "Type": "fire",
+    "Form Type": "Starter",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Charmeleon",
+    "Type": "fire",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Charizard",
+    "Type": "fire, flying",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 1
+  },
+  {
+    "Name": "Squirtle",
+    "Type": "water",
+    "Form Type": "Starter",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Wartortle",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Blastoise",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 1
+  },
+  {
+    "Name": "Caterpie",
+    "Type": "bug",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Metapod",
+    "Type": "bug",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Butterfree",
+    "Type": "bug, flying",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 1
+  },
+  {
+    "Name": "Weedle",
+    "Type": "bug, poison",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Kakuna",
+    "Type": "bug, poison",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Beedrill",
+    "Type": "bug, poison",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 1
+  },
+  {
+    "Name": "Pidgey",
+    "Type": "normal, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Pidgeotto",
+    "Type": "normal, flying",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Pidgeot",
+    "Type": "normal, flying",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 1
+  },
+  {
+    "Name": "Rattata",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Raticate",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Spearow",
+    "Type": "normal, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Fearow",
+    "Type": "normal, flying",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Ekans",
+    "Type": "poison",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Arbok",
+    "Type": "poison",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Pikachu",
+    "Type": "electric",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Raichu",
+    "Type": "electric",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 1
+  },
+  {
+    "Name": "Sandshrew",
+    "Type": "ground",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Sandslash",
+    "Type": "ground",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Nidoran f",
+    "Type": "poison",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Nidorina",
+    "Type": "poison",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Nidoqueen",
+    "Type": "poison, ground",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 1
+  },
+  {
+    "Name": "Nidoran m",
+    "Type": "poison",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Nidorino",
+    "Type": "poison",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Nidoking",
+    "Type": "poison, ground",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 1
+  },
+  {
+    "Name": "Clefairy",
+    "Type": "fairy",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Clefable",
+    "Type": "fairy",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 1
+  },
+  {
+    "Name": "Vulpix",
+    "Type": "fire",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Ninetales",
+    "Type": "fire",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Jigglypuff",
+    "Type": "normal, fairy",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Wigglytuff",
+    "Type": "normal, fairy",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 1
+  },
+  {
+    "Name": "Zubat",
+    "Type": "poison, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Golbat",
+    "Type": "poison, flying",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Oddish",
+    "Type": "grass, poison",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Gloom",
+    "Type": "grass, poison",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Vileplume",
+    "Type": "grass, poison",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 1
+  },
+  {
+    "Name": "Paras",
+    "Type": "bug, grass",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Parasect",
+    "Type": "bug, grass",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Venonat",
+    "Type": "bug, poison",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Venomoth",
+    "Type": "bug, poison",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Diglett",
+    "Type": "ground",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Dugtrio",
+    "Type": "ground",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Meowth",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Persian",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Psyduck",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Golduck",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Mankey",
+    "Type": "fighting",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Primeape",
+    "Type": "fighting",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Growlithe",
+    "Type": "fire",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Arcanine",
+    "Type": "fire",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Poliwag",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Poliwhirl",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Poliwrath",
+    "Type": "water, fighting",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 1
+  },
+  {
+    "Name": "Abra",
+    "Type": "psychic",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Kadabra",
+    "Type": "psychic",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Alakazam",
+    "Type": "psychic",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 1
+  },
+  {
+    "Name": "Machop",
+    "Type": "fighting",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Machoke",
+    "Type": "fighting",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Machamp",
+    "Type": "fighting",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 1
+  },
+  {
+    "Name": "Bellsprout",
+    "Type": "grass, poison",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Weepinbell",
+    "Type": "grass, poison",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Victreebel",
+    "Type": "grass, poison",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 1
+  },
+  {
+    "Name": "Tentacool",
+    "Type": "water, poison",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Tentacruel",
+    "Type": "water, poison",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Geodude",
+    "Type": "rock, ground",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Graveler",
+    "Type": "rock, ground",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Golem",
+    "Type": "rock, ground",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 1
+  },
+  {
+    "Name": "Ponyta",
+    "Type": "fire",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Rapidash",
+    "Type": "fire",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Slowpoke",
+    "Type": "water, psychic",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Slowbro",
+    "Type": "water, psychic",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Magnemite",
+    "Type": "electric, steel",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Magneton",
+    "Type": "electric, steel",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Farfetchd",
+    "Type": "normal, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Doduo",
+    "Type": "normal, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Dodrio",
+    "Type": "normal, flying",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Seel",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Dewgong",
+    "Type": "water, ice",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Grimer",
+    "Type": "poison",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Muk",
+    "Type": "poison",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Shellder",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Cloyster",
+    "Type": "water, ice",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Gastly",
+    "Type": "ghost, poison",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Haunter",
+    "Type": "ghost, poison",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Gengar",
+    "Type": "ghost, poison",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 1
+  },
+  {
+    "Name": "Onix",
+    "Type": "rock, ground",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Drowzee",
+    "Type": "psychic",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Hypno",
+    "Type": "psychic",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Krabby",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Kingler",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Voltorb",
+    "Type": "electric",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Electrode",
+    "Type": "electric",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Exeggcute",
+    "Type": "grass, psychic",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Exeggutor",
+    "Type": "grass, psychic",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Cubone",
+    "Type": "ground",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Marowak",
+    "Type": "ground",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Hitmonlee",
+    "Type": "fighting",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Hitmonchan",
+    "Type": "fighting",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": 1
+  },
+  {
+    "Name": "Lickitung",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Koffing",
+    "Type": "poison",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Weezing",
+    "Type": "poison",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Rhyhorn",
+    "Type": "ground, rock",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Rhydon",
+    "Type": "ground, rock",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Chansey",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Tangela",
+    "Type": "grass",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Kangaskhan",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Horsea",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Seadra",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Goldeen",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Seaking",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Staryu",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Starmie",
+    "Type": "water, psychic",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Mr mime",
+    "Type": "psychic, fairy",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Scyther",
+    "Type": "bug, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Jynx",
+    "Type": "ice, psychic",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Electabuzz",
+    "Type": "electric",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Magmar",
+    "Type": "fire",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Pinsir",
+    "Type": "bug",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Tauros",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Magikarp",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Gyarados",
+    "Type": "water, flying",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Lapras",
+    "Type": "water, ice",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Ditto",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Eevee",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Vaporeon",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Jolteon",
+    "Type": "electric",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": 1
+  },
+  {
+    "Name": "Flareon",
+    "Type": "fire",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": 1
+  },
+  {
+    "Name": "Porygon",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Omanyte",
+    "Type": "rock, water",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Omastar",
+    "Type": "rock, water",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Kabuto",
+    "Type": "rock, water",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Kabutops",
+    "Type": "rock, water",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Aerodactyl",
+    "Type": "rock, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Snorlax",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Articuno",
+    "Type": "ice, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Zapdos",
+    "Type": "electric, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Moltres",
+    "Type": "fire, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Dratini",
+    "Type": "dragon",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Dragonair",
+    "Type": "dragon",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 1
+  },
+  {
+    "Name": "Dragonite",
+    "Type": "dragon, flying",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 1
+  },
+  {
+    "Name": "Mewtwo",
+    "Type": "psychic",
+    "Form Type": "Legendary",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Mew",
+    "Type": "psychic",
+    "Form Type": "Mythical",
+    "Evolution": 1,
+    "Generation": 1
+  },
+  {
+    "Name": "Chikorita",
+    "Type": "grass",
+    "Form Type": "Starter",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Bayleef",
+    "Type": "grass",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 2
+  },
+  {
+    "Name": "Meganium",
+    "Type": "grass",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 2
+  },
+  {
+    "Name": "Cyndaquil",
+    "Type": "fire",
+    "Form Type": "Starter",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Quilava",
+    "Type": "fire",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 2
+  },
+  {
+    "Name": "Typhlosion",
+    "Type": "fire",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 2
+  },
+  {
+    "Name": "Totodile",
+    "Type": "water",
+    "Form Type": "Starter",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Croconaw",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 2
+  },
+  {
+    "Name": "Feraligatr",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 2
+  },
+  {
+    "Name": "Sentret",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Furret",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 2
+  },
+  {
+    "Name": "Hoothoot",
+    "Type": "normal, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Noctowl",
+    "Type": "normal, flying",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 2
+  },
+  {
+    "Name": "Ledyba",
+    "Type": "bug, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Ledian",
+    "Type": "bug, flying",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 2
+  },
+  {
+    "Name": "Spinarak",
+    "Type": "bug, poison",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Ariados",
+    "Type": "bug, poison",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 2
+  },
+  {
+    "Name": "Crobat",
+    "Type": "poison, flying",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 2
+  },
+  {
+    "Name": "Chinchou",
+    "Type": "water, electric",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Lanturn",
+    "Type": "water, electric",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 2
+  },
+  {
+    "Name": "Pichu",
+    "Type": "electric",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Cleffa",
+    "Type": "fairy",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Igglybuff",
+    "Type": "normal, fairy",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Togepi",
+    "Type": "fairy",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Togetic",
+    "Type": "fairy, flying",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 2
+  },
+  {
+    "Name": "Natu",
+    "Type": "psychic, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Xatu",
+    "Type": "psychic, flying",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 2
+  },
+  {
+    "Name": "Mareep",
+    "Type": "electric",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Flaaffy",
+    "Type": "electric",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 2
+  },
+  {
+    "Name": "Ampharos",
+    "Type": "electric",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 2
+  },
+  {
+    "Name": "Bellossom",
+    "Type": "grass",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": 2
+  },
+  {
+    "Name": "Marill",
+    "Type": "water, fairy",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 2
+  },
+  {
+    "Name": "Azumarill",
+    "Type": "water, fairy",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 2
+  },
+  {
+    "Name": "Sudowoodo",
+    "Type": "rock",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 2
+  },
+  {
+    "Name": "Politoed",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": 2
+  },
+  {
+    "Name": "Hoppip",
+    "Type": "grass, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Skiploom",
+    "Type": "grass, flying",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 2
+  },
+  {
+    "Name": "Jumpluff",
+    "Type": "grass, flying",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 2
+  },
+  {
+    "Name": "Aipom",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Sunkern",
+    "Type": "grass",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Sunflora",
+    "Type": "grass",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 2
+  },
+  {
+    "Name": "Yanma",
+    "Type": "bug, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Wooper",
+    "Type": "water, ground",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Quagsire",
+    "Type": "water, ground",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 2
+  },
+  {
+    "Name": "Espeon",
+    "Type": "psychic",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": 2
+  },
+  {
+    "Name": "Umbreon",
+    "Type": "dark",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": 2
+  },
+  {
+    "Name": "Murkrow",
+    "Type": "dark, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Slowking",
+    "Type": "water, psychic",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": 2
+  },
+  {
+    "Name": "Misdreavus",
+    "Type": "ghost",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Unown",
+    "Type": "psychic",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Wobbuffet",
+    "Type": "psychic",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 2
+  },
+  {
+    "Name": "Girafarig",
+    "Type": "normal, psychic",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Pineco",
+    "Type": "bug",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Forretress",
+    "Type": "bug, steel",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 2
+  },
+  {
+    "Name": "Dunsparce",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Gligar",
+    "Type": "ground, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Steelix",
+    "Type": "steel, ground",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 2
+  },
+  {
+    "Name": "Snubbull",
+    "Type": "fairy",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Granbull",
+    "Type": "fairy",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 2
+  },
+  {
+    "Name": "Qwilfish",
+    "Type": "water, poison",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Scizor",
+    "Type": "bug, steel",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 2
+  },
+  {
+    "Name": "Shuckle",
+    "Type": "bug, rock",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Heracross",
+    "Type": "bug, fighting",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Sneasel",
+    "Type": "dark, ice",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Teddiursa",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Ursaring",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 2
+  },
+  {
+    "Name": "Slugma",
+    "Type": "fire",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Magcargo",
+    "Type": "fire, rock",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 2
+  },
+  {
+    "Name": "Swinub",
+    "Type": "ice, ground",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Piloswine",
+    "Type": "ice, ground",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 2
+  },
+  {
+    "Name": "Corsola",
+    "Type": "water, rock",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Remoraid",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Octillery",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 2
+  },
+  {
+    "Name": "Delibird",
+    "Type": "ice, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Mantine",
+    "Type": "water, flying",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 2
+  },
+  {
+    "Name": "Skarmory",
+    "Type": "steel, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Houndour",
+    "Type": "dark, fire",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Houndoom",
+    "Type": "dark, fire",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 2
+  },
+  {
+    "Name": "Kingdra",
+    "Type": "water, dragon",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 2
+  },
+  {
+    "Name": "Phanpy",
+    "Type": "ground",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Donphan",
+    "Type": "ground",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 2
+  },
+  {
+    "Name": "Porygon2",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 2
+  },
+  {
+    "Name": "Stantler",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Smeargle",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Tyrogue",
+    "Type": "fighting",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Hitmontop",
+    "Type": "fighting",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": 2
+  },
+  {
+    "Name": "Smoochum",
+    "Type": "ice, psychic",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Elekid",
+    "Type": "electric",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Magby",
+    "Type": "fire",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Miltank",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Blissey",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 2
+  },
+  {
+    "Name": "Raikou",
+    "Type": "electric",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Entei",
+    "Type": "fire",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Suicune",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Larvitar",
+    "Type": "rock, ground",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Pupitar",
+    "Type": "rock, ground",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 2
+  },
+  {
+    "Name": "Tyranitar",
+    "Type": "rock, dark",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 2
+  },
+  {
+    "Name": "Lugia",
+    "Type": "psychic, flying",
+    "Form Type": "Legendary",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Ho oh",
+    "Type": "fire, flying",
+    "Form Type": "Legendary",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Celebi",
+    "Type": "psychic, grass",
+    "Form Type": "Mythical",
+    "Evolution": 1,
+    "Generation": 2
+  },
+  {
+    "Name": "Treecko",
+    "Type": "grass",
+    "Form Type": "Starter",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Grovyle",
+    "Type": "grass",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Sceptile",
+    "Type": "grass",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 3
+  },
+  {
+    "Name": "Torchic",
+    "Type": "fire",
+    "Form Type": "Starter",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Combusken",
+    "Type": "fire, fighting",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Blaziken",
+    "Type": "fire, fighting",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 3
+  },
+  {
+    "Name": "Mudkip",
+    "Type": "water",
+    "Form Type": "Starter",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Marshtomp",
+    "Type": "water, ground",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Swampert",
+    "Type": "water, ground",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 3
+  },
+  {
+    "Name": "Poochyena",
+    "Type": "dark",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Mightyena",
+    "Type": "dark",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Zigzagoon",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Linoone",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Wurmple",
+    "Type": "bug",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Silcoon",
+    "Type": "bug",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Beautifly",
+    "Type": "bug, flying",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 3
+  },
+  {
+    "Name": "Cascoon",
+    "Type": "bug",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": 3
+  },
+  {
+    "Name": "Dustox",
+    "Type": "bug, poison",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": 3
+  },
+  {
+    "Name": "Lotad",
+    "Type": "water, grass",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Lombre",
+    "Type": "water, grass",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Ludicolo",
+    "Type": "water, grass",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 3
+  },
+  {
+    "Name": "Seedot",
+    "Type": "grass",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Nuzleaf",
+    "Type": "grass, dark",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Shiftry",
+    "Type": "grass, dark",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 3
+  },
+  {
+    "Name": "Taillow",
+    "Type": "normal, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Swellow",
+    "Type": "normal, flying",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Wingull",
+    "Type": "water, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Pelipper",
+    "Type": "water, flying",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Ralts",
+    "Type": "psychic, fairy",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Kirlia",
+    "Type": "psychic, fairy",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Gardevoir",
+    "Type": "psychic, fairy",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 3
+  },
+  {
+    "Name": "Surskit",
+    "Type": "bug, water",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Masquerain",
+    "Type": "bug, flying",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Shroomish",
+    "Type": "grass",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Breloom",
+    "Type": "grass, fighting",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Slakoth",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Vigoroth",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Slaking",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 3
+  },
+  {
+    "Name": "Nincada",
+    "Type": "bug, ground",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Ninjask",
+    "Type": "bug, flying",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Shedinja",
+    "Type": "bug, ghost",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": 3
+  },
+  {
+    "Name": "Whismur",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Loudred",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Exploud",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 3
+  },
+  {
+    "Name": "Makuhita",
+    "Type": "fighting",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Hariyama",
+    "Type": "fighting",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Azurill",
+    "Type": "normal, fairy",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Nosepass",
+    "Type": "rock",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Skitty",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Delcatty",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Sableye",
+    "Type": "dark, ghost",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Mawile",
+    "Type": "steel, fairy",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Aron",
+    "Type": "steel, rock",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Lairon",
+    "Type": "steel, rock",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Aggron",
+    "Type": "steel, rock",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 3
+  },
+  {
+    "Name": "Meditite",
+    "Type": "fighting, psychic",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Medicham",
+    "Type": "fighting, psychic",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Electrike",
+    "Type": "electric",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Manectric",
+    "Type": "electric",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Plusle",
+    "Type": "electric",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Minun",
+    "Type": "electric",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Volbeat",
+    "Type": "bug",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Illumise",
+    "Type": "bug",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Roselia",
+    "Type": "grass, poison",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Gulpin",
+    "Type": "poison",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Swalot",
+    "Type": "poison",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Carvanha",
+    "Type": "water, dark",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Sharpedo",
+    "Type": "water, dark",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Wailmer",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Wailord",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Numel",
+    "Type": "fire, ground",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Camerupt",
+    "Type": "fire, ground",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Torkoal",
+    "Type": "fire",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Spoink",
+    "Type": "psychic",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Grumpig",
+    "Type": "psychic",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Spinda",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Trapinch",
+    "Type": "ground",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Vibrava",
+    "Type": "ground, dragon",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Flygon",
+    "Type": "ground, dragon",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 3
+  },
+  {
+    "Name": "Cacnea",
+    "Type": "grass",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Cacturne",
+    "Type": "grass, dark",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Swablu",
+    "Type": "normal, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Altaria",
+    "Type": "dragon, flying",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Zangoose",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Seviper",
+    "Type": "poison",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Lunatone",
+    "Type": "rock, psychic",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Solrock",
+    "Type": "rock, psychic",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Barboach",
+    "Type": "water, ground",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Whiscash",
+    "Type": "water, ground",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Corphish",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Crawdaunt",
+    "Type": "water, dark",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Baltoy",
+    "Type": "ground, psychic",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Claydol",
+    "Type": "ground, psychic",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Lileep",
+    "Type": "rock, grass",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Cradily",
+    "Type": "rock, grass",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Anorith",
+    "Type": "rock, bug",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Armaldo",
+    "Type": "rock, bug",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Feebas",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Milotic",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Castform",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Kecleon",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Shuppet",
+    "Type": "ghost",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Banette",
+    "Type": "ghost",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Duskull",
+    "Type": "ghost",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Dusclops",
+    "Type": "ghost",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Tropius",
+    "Type": "grass, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Chimecho",
+    "Type": "psychic",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Absol",
+    "Type": "dark",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Wynaut",
+    "Type": "psychic",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Snorunt",
+    "Type": "ice",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Glalie",
+    "Type": "ice",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Spheal",
+    "Type": "ice, water",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Sealeo",
+    "Type": "ice, water",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Walrein",
+    "Type": "ice, water",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 3
+  },
+  {
+    "Name": "Clamperl",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Huntail",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Gorebyss",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": 3
+  },
+  {
+    "Name": "Relicanth",
+    "Type": "water, rock",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Luvdisc",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Bagon",
+    "Type": "dragon",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Shelgon",
+    "Type": "dragon",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Salamence",
+    "Type": "dragon, flying",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 3
+  },
+  {
+    "Name": "Beldum",
+    "Type": "steel, psychic",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Metang",
+    "Type": "steel, psychic",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 3
+  },
+  {
+    "Name": "Metagross",
+    "Type": "steel, psychic",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 3
+  },
+  {
+    "Name": "Regirock",
+    "Type": "rock",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Regice",
+    "Type": "ice",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Registeel",
+    "Type": "steel",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Latias",
+    "Type": "dragon, psychic",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Latios",
+    "Type": "dragon, psychic",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Kyogre",
+    "Type": "water",
+    "Form Type": "Legendary",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Groudon",
+    "Type": "ground",
+    "Form Type": "Legendary",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Rayquaza",
+    "Type": "dragon, flying",
+    "Form Type": "Legendary",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Jirachi",
+    "Type": "steel, psychic",
+    "Form Type": "Mythical",
+    "Evolution": 1,
+    "Generation": 3
+  },
+  {
+    "Name": "Deoxys normal",
+    "Type": "psychic",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": ""
+  },
+  {
+    "Name": "Turtwig",
+    "Type": "grass",
+    "Form Type": "Starter",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Grotle",
+    "Type": "grass",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 4
+  },
+  {
+    "Name": "Torterra",
+    "Type": "grass, ground",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 4
+  },
+  {
+    "Name": "Chimchar",
+    "Type": "fire",
+    "Form Type": "Starter",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Monferno",
+    "Type": "fire, fighting",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 4
+  },
+  {
+    "Name": "Infernape",
+    "Type": "fire, fighting",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 4
+  },
+  {
+    "Name": "Piplup",
+    "Type": "water",
+    "Form Type": "Starter",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Prinplup",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 4
+  },
+  {
+    "Name": "Empoleon",
+    "Type": "water, steel",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 4
+  },
+  {
+    "Name": "Starly",
+    "Type": "normal, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Staravia",
+    "Type": "normal, flying",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 4
+  },
+  {
+    "Name": "Staraptor",
+    "Type": "normal, flying",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 4
+  },
+  {
+    "Name": "Bidoof",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Bibarel",
+    "Type": "normal, water",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 4
+  },
+  {
+    "Name": "Kricketot",
+    "Type": "bug",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Kricketune",
+    "Type": "bug",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 4
+  },
+  {
+    "Name": "Shinx",
+    "Type": "electric",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Luxio",
+    "Type": "electric",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 4
+  },
+  {
+    "Name": "Luxray",
+    "Type": "electric",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 4
+  },
+  {
+    "Name": "Budew",
+    "Type": "grass, poison",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Roserade",
+    "Type": "grass, poison",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 4
+  },
+  {
+    "Name": "Cranidos",
+    "Type": "rock",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Rampardos",
+    "Type": "rock",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 4
+  },
+  {
+    "Name": "Shieldon",
+    "Type": "rock, steel",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Bastiodon",
+    "Type": "rock, steel",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 4
+  },
+  {
+    "Name": "Burmy",
+    "Type": "bug",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Wormadam plant",
+    "Type": "bug, grass",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": ""
+  },
+  {
+    "Name": "Mothim",
+    "Type": "bug, flying",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": 4
+  },
+  {
+    "Name": "Combee",
+    "Type": "bug, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Vespiquen",
+    "Type": "bug, flying",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 4
+  },
+  {
+    "Name": "Pachirisu",
+    "Type": "electric",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Buizel",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Floatzel",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 4
+  },
+  {
+    "Name": "Cherubi",
+    "Type": "grass",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Cherrim",
+    "Type": "grass",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 4
+  },
+  {
+    "Name": "Shellos",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Gastrodon",
+    "Type": "water, ground",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 4
+  },
+  {
+    "Name": "Ambipom",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 4
+  },
+  {
+    "Name": "Drifloon",
+    "Type": "ghost, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Drifblim",
+    "Type": "ghost, flying",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 4
+  },
+  {
+    "Name": "Buneary",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Lopunny",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 4
+  },
+  {
+    "Name": "Mismagius",
+    "Type": "ghost",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 4
+  },
+  {
+    "Name": "Honchkrow",
+    "Type": "dark, flying",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 4
+  },
+  {
+    "Name": "Glameow",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Purugly",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 4
+  },
+  {
+    "Name": "Chingling",
+    "Type": "psychic",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Stunky",
+    "Type": "poison, dark",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Skuntank",
+    "Type": "poison, dark",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 4
+  },
+  {
+    "Name": "Bronzor",
+    "Type": "steel, psychic",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Bronzong",
+    "Type": "steel, psychic",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 4
+  },
+  {
+    "Name": "Bonsly",
+    "Type": "rock",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Mime jr",
+    "Type": "psychic, fairy",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Happiny",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Chatot",
+    "Type": "normal, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Spiritomb",
+    "Type": "ghost, dark",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Gible",
+    "Type": "dragon, ground",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Gabite",
+    "Type": "dragon, ground",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 4
+  },
+  {
+    "Name": "Garchomp",
+    "Type": "dragon, ground",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 4
+  },
+  {
+    "Name": "Munchlax",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Riolu",
+    "Type": "fighting",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Lucario",
+    "Type": "fighting, steel",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 4
+  },
+  {
+    "Name": "Hippopotas",
+    "Type": "ground",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Hippowdon",
+    "Type": "ground",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 4
+  },
+  {
+    "Name": "Skorupi",
+    "Type": "poison, bug",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Drapion",
+    "Type": "poison, dark",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 4
+  },
+  {
+    "Name": "Croagunk",
+    "Type": "poison, fighting",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Toxicroak",
+    "Type": "poison, fighting",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 4
+  },
+  {
+    "Name": "Carnivine",
+    "Type": "grass",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Finneon",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Lumineon",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 4
+  },
+  {
+    "Name": "Mantyke",
+    "Type": "water, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Snover",
+    "Type": "grass, ice",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Abomasnow",
+    "Type": "grass, ice",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 4
+  },
+  {
+    "Name": "Weavile",
+    "Type": "dark, ice",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 4
+  },
+  {
+    "Name": "Magnezone",
+    "Type": "electric, steel",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 4
+  },
+  {
+    "Name": "Lickilicky",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 4
+  },
+  {
+    "Name": "Rhyperior",
+    "Type": "ground, rock",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 4
+  },
+  {
+    "Name": "Tangrowth",
+    "Type": "grass",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 4
+  },
+  {
+    "Name": "Electivire",
+    "Type": "electric",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 4
+  },
+  {
+    "Name": "Magmortar",
+    "Type": "fire",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 4
+  },
+  {
+    "Name": "Togekiss",
+    "Type": "fairy, flying",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 4
+  },
+  {
+    "Name": "Yanmega",
+    "Type": "bug, flying",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 4
+  },
+  {
+    "Name": "Leafeon",
+    "Type": "grass",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": 4
+  },
+  {
+    "Name": "Glaceon",
+    "Type": "ice",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": 4
+  },
+  {
+    "Name": "Gliscor",
+    "Type": "ground, flying",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 4
+  },
+  {
+    "Name": "Mamoswine",
+    "Type": "ice, ground",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 4
+  },
+  {
+    "Name": "Porygon z",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 4
+  },
+  {
+    "Name": "Gallade",
+    "Type": "psychic, fighting",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": 4
+  },
+  {
+    "Name": "Probopass",
+    "Type": "rock, steel",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 4
+  },
+  {
+    "Name": "Dusknoir",
+    "Type": "ghost",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 4
+  },
+  {
+    "Name": "Froslass",
+    "Type": "ice, ghost",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": 4
+  },
+  {
+    "Name": "Rotom",
+    "Type": "electric, ghost",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Uxie",
+    "Type": "psychic",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Mesprit",
+    "Type": "psychic",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Azelf",
+    "Type": "psychic",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Dialga",
+    "Type": "steel, dragon",
+    "Form Type": "Legendary",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Palkia",
+    "Type": "water, dragon",
+    "Form Type": "Legendary",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Heatran",
+    "Type": "fire, steel",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Regigigas",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Giratina altered",
+    "Type": "ghost, dragon",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": ""
+  },
+  {
+    "Name": "Cresselia",
+    "Type": "psychic",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Phione",
+    "Type": "water",
+    "Form Type": "Mythical",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Manaphy",
+    "Type": "water",
+    "Form Type": "Mythical",
+    "Evolution": 2,
+    "Generation": 4
+  },
+  {
+    "Name": "Darkrai",
+    "Type": "dark",
+    "Form Type": "Mythical",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Shaymin land",
+    "Type": "grass",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": ""
+  },
+  {
+    "Name": "Arceus",
+    "Type": "normal",
+    "Form Type": "Mythical",
+    "Evolution": 1,
+    "Generation": 4
+  },
+  {
+    "Name": "Victini",
+    "Type": "psychic, fire",
+    "Form Type": "Mythical",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Snivy",
+    "Type": "grass",
+    "Form Type": "Starter",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Servine",
+    "Type": "grass",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Serperior",
+    "Type": "grass",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 5
+  },
+  {
+    "Name": "Tepig",
+    "Type": "fire",
+    "Form Type": "Starter",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Pignite",
+    "Type": "fire, fighting",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Emboar",
+    "Type": "fire, fighting",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 5
+  },
+  {
+    "Name": "Oshawott",
+    "Type": "water",
+    "Form Type": "Starter",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Dewott",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Samurott",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 5
+  },
+  {
+    "Name": "Patrat",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Watchog",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Lillipup",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Herdier",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Stoutland",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 5
+  },
+  {
+    "Name": "Purrloin",
+    "Type": "dark",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Liepard",
+    "Type": "dark",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Pansage",
+    "Type": "grass",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Simisage",
+    "Type": "grass",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Pansear",
+    "Type": "fire",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Simisear",
+    "Type": "fire",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Panpour",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Simipour",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Munna",
+    "Type": "psychic",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Musharna",
+    "Type": "psychic",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Pidove",
+    "Type": "normal, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Tranquill",
+    "Type": "normal, flying",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Unfezant",
+    "Type": "normal, flying",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 5
+  },
+  {
+    "Name": "Blitzle",
+    "Type": "electric",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Zebstrika",
+    "Type": "electric",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Roggenrola",
+    "Type": "rock",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Boldore",
+    "Type": "rock",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Gigalith",
+    "Type": "rock",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 5
+  },
+  {
+    "Name": "Woobat",
+    "Type": "psychic, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Swoobat",
+    "Type": "psychic, flying",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Drilbur",
+    "Type": "ground",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Excadrill",
+    "Type": "ground, steel",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Audino",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Timburr",
+    "Type": "fighting",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Gurdurr",
+    "Type": "fighting",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Conkeldurr",
+    "Type": "fighting",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 5
+  },
+  {
+    "Name": "Tympole",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Palpitoad",
+    "Type": "water, ground",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Seismitoad",
+    "Type": "water, ground",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 5
+  },
+  {
+    "Name": "Throh",
+    "Type": "fighting",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Sawk",
+    "Type": "fighting",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Sewaddle",
+    "Type": "bug, grass",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Swadloon",
+    "Type": "bug, grass",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Leavanny",
+    "Type": "bug, grass",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 5
+  },
+  {
+    "Name": "Venipede",
+    "Type": "bug, poison",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Whirlipede",
+    "Type": "bug, poison",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Scolipede",
+    "Type": "bug, poison",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 5
+  },
+  {
+    "Name": "Cottonee",
+    "Type": "grass, fairy",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Whimsicott",
+    "Type": "grass, fairy",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Petilil",
+    "Type": "grass",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Lilligant",
+    "Type": "grass",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Basculin red striped",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": ""
+  },
+  {
+    "Name": "Sandile",
+    "Type": "ground, dark",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Krokorok",
+    "Type": "ground, dark",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Krookodile",
+    "Type": "ground, dark",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 5
+  },
+  {
+    "Name": "Darumaka",
+    "Type": "fire",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Darmanitan standard",
+    "Type": "fire",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": ""
+  },
+  {
+    "Name": "Maractus",
+    "Type": "grass",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Dwebble",
+    "Type": "bug, rock",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Crustle",
+    "Type": "bug, rock",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Scraggy",
+    "Type": "dark, fighting",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Scrafty",
+    "Type": "dark, fighting",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Sigilyph",
+    "Type": "psychic, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Yamask",
+    "Type": "ghost",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Cofagrigus",
+    "Type": "ghost",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Tirtouga",
+    "Type": "water, rock",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Carracosta",
+    "Type": "water, rock",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Archen",
+    "Type": "rock, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Archeops",
+    "Type": "rock, flying",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Trubbish",
+    "Type": "poison",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Garbodor",
+    "Type": "poison",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Zorua",
+    "Type": "dark",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Zoroark",
+    "Type": "dark",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Minccino",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Cinccino",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Gothita",
+    "Type": "psychic",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Gothorita",
+    "Type": "psychic",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Gothitelle",
+    "Type": "psychic",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 5
+  },
+  {
+    "Name": "Solosis",
+    "Type": "psychic",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Duosion",
+    "Type": "psychic",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Reuniclus",
+    "Type": "psychic",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 5
+  },
+  {
+    "Name": "Ducklett",
+    "Type": "water, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Swanna",
+    "Type": "water, flying",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Vanillite",
+    "Type": "ice",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Vanillish",
+    "Type": "ice",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Vanilluxe",
+    "Type": "ice",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 5
+  },
+  {
+    "Name": "Deerling",
+    "Type": "normal, grass",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Sawsbuck",
+    "Type": "normal, grass",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Emolga",
+    "Type": "electric, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Karrablast",
+    "Type": "bug",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Escavalier",
+    "Type": "bug, steel",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Foongus",
+    "Type": "grass, poison",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Amoonguss",
+    "Type": "grass, poison",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Frillish",
+    "Type": "water, ghost",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Jellicent",
+    "Type": "water, ghost",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Alomomola",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Joltik",
+    "Type": "bug, electric",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Galvantula",
+    "Type": "bug, electric",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Ferroseed",
+    "Type": "grass, steel",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Ferrothorn",
+    "Type": "grass, steel",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Klink",
+    "Type": "steel",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Klang",
+    "Type": "steel",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Klinklang",
+    "Type": "steel",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 5
+  },
+  {
+    "Name": "Tynamo",
+    "Type": "electric",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Eelektrik",
+    "Type": "electric",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Eelektross",
+    "Type": "electric",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 5
+  },
+  {
+    "Name": "Elgyem",
+    "Type": "psychic",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Beheeyem",
+    "Type": "psychic",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Litwick",
+    "Type": "ghost, fire",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Lampent",
+    "Type": "ghost, fire",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Chandelure",
+    "Type": "ghost, fire",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 5
+  },
+  {
+    "Name": "Axew",
+    "Type": "dragon",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Fraxure",
+    "Type": "dragon",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Haxorus",
+    "Type": "dragon",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 5
+  },
+  {
+    "Name": "Cubchoo",
+    "Type": "ice",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Beartic",
+    "Type": "ice",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Cryogonal",
+    "Type": "ice",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Shelmet",
+    "Type": "bug",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Accelgor",
+    "Type": "bug",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Stunfisk",
+    "Type": "ground, electric",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Mienfoo",
+    "Type": "fighting",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Mienshao",
+    "Type": "fighting",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Druddigon",
+    "Type": "dragon",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Golett",
+    "Type": "ground, ghost",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Golurk",
+    "Type": "ground, ghost",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Pawniard",
+    "Type": "dark, steel",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Bisharp",
+    "Type": "dark, steel",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Bouffalant",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Rufflet",
+    "Type": "normal, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Braviary",
+    "Type": "normal, flying",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Vullaby",
+    "Type": "dark, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Mandibuzz",
+    "Type": "dark, flying",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Heatmor",
+    "Type": "fire",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Durant",
+    "Type": "bug, steel",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Deino",
+    "Type": "dark, dragon",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Zweilous",
+    "Type": "dark, dragon",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Hydreigon",
+    "Type": "dark, dragon",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 5
+  },
+  {
+    "Name": "Larvesta",
+    "Type": "bug, fire",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Volcarona",
+    "Type": "bug, fire",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 5
+  },
+  {
+    "Name": "Cobalion",
+    "Type": "steel, fighting",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Terrakion",
+    "Type": "rock, fighting",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Virizion",
+    "Type": "grass, fighting",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Tornadus incarnate",
+    "Type": "flying",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": ""
+  },
+  {
+    "Name": "Thundurus incarnate",
+    "Type": "electric, flying",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": ""
+  },
+  {
+    "Name": "Reshiram",
+    "Type": "dragon, fire",
+    "Form Type": "Legendary",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Zekrom",
+    "Type": "dragon, electric",
+    "Form Type": "Legendary",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Landorus incarnate",
+    "Type": "ground, flying",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": ""
+  },
+  {
+    "Name": "Kyurem",
+    "Type": "dragon, ice",
+    "Form Type": "Legendary",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Keldeo ordinary",
+    "Type": "water, fighting",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": ""
+  },
+  {
+    "Name": "Meloetta aria",
+    "Type": "normal, psychic",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": ""
+  },
+  {
+    "Name": "Genesect",
+    "Type": "bug, steel",
+    "Form Type": "Mythical",
+    "Evolution": 1,
+    "Generation": 5
+  },
+  {
+    "Name": "Chespin",
+    "Type": "grass",
+    "Form Type": "Starter",
+    "Evolution": 1,
+    "Generation": 6
+  },
+  {
+    "Name": "Quilladin",
+    "Type": "grass",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 6
+  },
+  {
+    "Name": "Chesnaught",
+    "Type": "grass, fighting",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 6
+  },
+  {
+    "Name": "Fennekin",
+    "Type": "fire",
+    "Form Type": "Starter",
+    "Evolution": 1,
+    "Generation": 6
+  },
+  {
+    "Name": "Braixen",
+    "Type": "fire",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 6
+  },
+  {
+    "Name": "Delphox",
+    "Type": "fire, psychic",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 6
+  },
+  {
+    "Name": "Froakie",
+    "Type": "water",
+    "Form Type": "Starter",
+    "Evolution": 1,
+    "Generation": 6
+  },
+  {
+    "Name": "Frogadier",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 6
+  },
+  {
+    "Name": "Greninja",
+    "Type": "water, dark",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 6
+  },
+  {
+    "Name": "Bunnelby",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 6
+  },
+  {
+    "Name": "Diggersby",
+    "Type": "normal, ground",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 6
+  },
+  {
+    "Name": "Fletchling",
+    "Type": "normal, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 6
+  },
+  {
+    "Name": "Fletchinder",
+    "Type": "fire, flying",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 6
+  },
+  {
+    "Name": "Talonflame",
+    "Type": "fire, flying",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 6
+  },
+  {
+    "Name": "Scatterbug",
+    "Type": "bug",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 6
+  },
+  {
+    "Name": "Spewpa",
+    "Type": "bug",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 6
+  },
+  {
+    "Name": "Vivillon",
+    "Type": "bug, flying",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 6
+  },
+  {
+    "Name": "Litleo",
+    "Type": "fire, normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 6
+  },
+  {
+    "Name": "Pyroar",
+    "Type": "fire, normal",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 6
+  },
+  {
+    "Name": "Flabebe",
+    "Type": "fairy",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 6
+  },
+  {
+    "Name": "Floette",
+    "Type": "fairy",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 6
+  },
+  {
+    "Name": "Florges",
+    "Type": "fairy",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 6
+  },
+  {
+    "Name": "Skiddo",
+    "Type": "grass",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 6
+  },
+  {
+    "Name": "Gogoat",
+    "Type": "grass",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 6
+  },
+  {
+    "Name": "Pancham",
+    "Type": "fighting",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 6
+  },
+  {
+    "Name": "Pangoro",
+    "Type": "fighting, dark",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 6
+  },
+  {
+    "Name": "Furfrou",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 6
+  },
+  {
+    "Name": "Espurr",
+    "Type": "psychic",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 6
+  },
+  {
+    "Name": "Meowstic male",
+    "Type": "psychic",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": ""
+  },
+  {
+    "Name": "Honedge",
+    "Type": "steel, ghost",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 6
+  },
+  {
+    "Name": "Doublade",
+    "Type": "steel, ghost",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 6
+  },
+  {
+    "Name": "Aegislash shield",
+    "Type": "steel, ghost",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": ""
+  },
+  {
+    "Name": "Spritzee",
+    "Type": "fairy",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 6
+  },
+  {
+    "Name": "Aromatisse",
+    "Type": "fairy",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 6
+  },
+  {
+    "Name": "Swirlix",
+    "Type": "fairy",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 6
+  },
+  {
+    "Name": "Slurpuff",
+    "Type": "fairy",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 6
+  },
+  {
+    "Name": "Inkay",
+    "Type": "dark, psychic",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 6
+  },
+  {
+    "Name": "Malamar",
+    "Type": "dark, psychic",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 6
+  },
+  {
+    "Name": "Binacle",
+    "Type": "rock, water",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 6
+  },
+  {
+    "Name": "Barbaracle",
+    "Type": "rock, water",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 6
+  },
+  {
+    "Name": "Skrelp",
+    "Type": "poison, water",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 6
+  },
+  {
+    "Name": "Dragalge",
+    "Type": "poison, dragon",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 6
+  },
+  {
+    "Name": "Clauncher",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 6
+  },
+  {
+    "Name": "Clawitzer",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 6
+  },
+  {
+    "Name": "Helioptile",
+    "Type": "electric, normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 6
+  },
+  {
+    "Name": "Heliolisk",
+    "Type": "electric, normal",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 6
+  },
+  {
+    "Name": "Tyrunt",
+    "Type": "rock, dragon",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 6
+  },
+  {
+    "Name": "Tyrantrum",
+    "Type": "rock, dragon",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 6
+  },
+  {
+    "Name": "Amaura",
+    "Type": "rock, ice",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 6
+  },
+  {
+    "Name": "Aurorus",
+    "Type": "rock, ice",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 6
+  },
+  {
+    "Name": "Sylveon",
+    "Type": "fairy",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": 6
+  },
+  {
+    "Name": "Hawlucha",
+    "Type": "fighting, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 6
+  },
+  {
+    "Name": "Dedenne",
+    "Type": "electric, fairy",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 6
+  },
+  {
+    "Name": "Carbink",
+    "Type": "rock, fairy",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 6
+  },
+  {
+    "Name": "Goomy",
+    "Type": "dragon",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 6
+  },
+  {
+    "Name": "Sliggoo",
+    "Type": "dragon",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 6
+  },
+  {
+    "Name": "Goodra",
+    "Type": "dragon",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 6
+  },
+  {
+    "Name": "Klefki",
+    "Type": "steel, fairy",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 6
+  },
+  {
+    "Name": "Phantump",
+    "Type": "ghost, grass",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 6
+  },
+  {
+    "Name": "Trevenant",
+    "Type": "ghost, grass",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 6
+  },
+  {
+    "Name": "Pumpkaboo average",
+    "Type": "ghost, grass",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": ""
+  },
+  {
+    "Name": "Gourgeist average",
+    "Type": "ghost, grass",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": ""
+  },
+  {
+    "Name": "Bergmite",
+    "Type": "ice",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 6
+  },
+  {
+    "Name": "Avalugg",
+    "Type": "ice",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 6
+  },
+  {
+    "Name": "Noibat",
+    "Type": "flying, dragon",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 6
+  },
+  {
+    "Name": "Noivern",
+    "Type": "flying, dragon",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 6
+  },
+  {
+    "Name": "Xerneas",
+    "Type": "fairy",
+    "Form Type": "Legendary",
+    "Evolution": 1,
+    "Generation": 6
+  },
+  {
+    "Name": "Yveltal",
+    "Type": "dark, flying",
+    "Form Type": "Legendary",
+    "Evolution": 1,
+    "Generation": 6
+  },
+  {
+    "Name": "Zygarde 50",
+    "Type": "dragon, ground",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": ""
+  },
+  {
+    "Name": "Diancie",
+    "Type": "rock, fairy",
+    "Form Type": "Mythical",
+    "Evolution": 1,
+    "Generation": 6
+  },
+  {
+    "Name": "Hoopa",
+    "Type": "psychic, ghost",
+    "Form Type": "Mythical",
+    "Evolution": 1,
+    "Generation": 6
+  },
+  {
+    "Name": "Volcanion",
+    "Type": "fire, water",
+    "Form Type": "Mythical",
+    "Evolution": 1,
+    "Generation": 6
+  },
+  {
+    "Name": "Rowlet",
+    "Type": "grass, flying",
+    "Form Type": "Starter",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Dartrix",
+    "Type": "grass, flying",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 7
+  },
+  {
+    "Name": "Decidueye",
+    "Type": "grass, ghost",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 7
+  },
+  {
+    "Name": "Litten",
+    "Type": "fire",
+    "Form Type": "Starter",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Torracat",
+    "Type": "fire",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 7
+  },
+  {
+    "Name": "Incineroar",
+    "Type": "fire, dark",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 7
+  },
+  {
+    "Name": "Popplio",
+    "Type": "water",
+    "Form Type": "Starter",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Brionne",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 7
+  },
+  {
+    "Name": "Primarina",
+    "Type": "water, fairy",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 7
+  },
+  {
+    "Name": "Pikipek",
+    "Type": "normal, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Trumbeak",
+    "Type": "normal, flying",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 7
+  },
+  {
+    "Name": "Toucannon",
+    "Type": "normal, flying",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 7
+  },
+  {
+    "Name": "Yungoos",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Gumshoos",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 7
+  },
+  {
+    "Name": "Grubbin",
+    "Type": "bug",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Charjabug",
+    "Type": "bug, electric",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 7
+  },
+  {
+    "Name": "Vikavolt",
+    "Type": "bug, electric",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 7
+  },
+  {
+    "Name": "Crabrawler",
+    "Type": "fighting",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Crabominable",
+    "Type": "fighting, ice",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 7
+  },
+  {
+    "Name": "Oricorio baile",
+    "Type": "fire, flying",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": ""
+  },
+  {
+    "Name": "Cutiefly",
+    "Type": "bug, fairy",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Ribombee",
+    "Type": "bug, fairy",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 7
+  },
+  {
+    "Name": "Rockruff",
+    "Type": "rock",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Lycanroc midday",
+    "Type": "rock",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": ""
+  },
+  {
+    "Name": "Wishiwashi solo",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": ""
+  },
+  {
+    "Name": "Mareanie",
+    "Type": "poison, water",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Toxapex",
+    "Type": "poison, water",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 7
+  },
+  {
+    "Name": "Mudbray",
+    "Type": "ground",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Mudsdale",
+    "Type": "ground",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 7
+  },
+  {
+    "Name": "Dewpider",
+    "Type": "water, bug",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Araquanid",
+    "Type": "water, bug",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 7
+  },
+  {
+    "Name": "Fomantis",
+    "Type": "grass",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Lurantis",
+    "Type": "grass",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 7
+  },
+  {
+    "Name": "Morelull",
+    "Type": "grass, fairy",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Shiinotic",
+    "Type": "grass, fairy",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 7
+  },
+  {
+    "Name": "Salandit",
+    "Type": "poison, fire",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Salazzle",
+    "Type": "poison, fire",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 7
+  },
+  {
+    "Name": "Stufful",
+    "Type": "normal, fighting",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Bewear",
+    "Type": "normal, fighting",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 7
+  },
+  {
+    "Name": "Bounsweet",
+    "Type": "grass",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Steenee",
+    "Type": "grass",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 7
+  },
+  {
+    "Name": "Tsareena",
+    "Type": "grass",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 7
+  },
+  {
+    "Name": "Comfey",
+    "Type": "fairy",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Oranguru",
+    "Type": "normal, psychic",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Passimian",
+    "Type": "fighting",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Wimpod",
+    "Type": "bug, water",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Golisopod",
+    "Type": "bug, water",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 7
+  },
+  {
+    "Name": "Sandygast",
+    "Type": "ghost, ground",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Palossand",
+    "Type": "ghost, ground",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 7
+  },
+  {
+    "Name": "Pyukumuku",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Type null",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Silvally",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 7
+  },
+  {
+    "Name": "Minior red meteor",
+    "Type": "rock, flying",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": ""
+  },
+  {
+    "Name": "Komala",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Turtonator",
+    "Type": "fire, dragon",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Togedemaru",
+    "Type": "electric, steel",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Mimikyu disguised",
+    "Type": "ghost, fairy",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": ""
+  },
+  {
+    "Name": "Bruxish",
+    "Type": "water, psychic",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Drampa",
+    "Type": "normal, dragon",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Dhelmise",
+    "Type": "ghost, grass",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Jangmo o",
+    "Type": "dragon",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Hakamo o",
+    "Type": "dragon, fighting",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 7
+  },
+  {
+    "Name": "Kommo o",
+    "Type": "dragon, fighting",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 7
+  },
+  {
+    "Name": "Tapu koko",
+    "Type": "electric, fairy",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Tapu lele",
+    "Type": "psychic, fairy",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Tapu bulu",
+    "Type": "grass, fairy",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Tapu fini",
+    "Type": "water, fairy",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Cosmog",
+    "Type": "psychic",
+    "Form Type": "Legendary",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Cosmoem",
+    "Type": "psychic",
+    "Form Type": "Legendary",
+    "Evolution": 2,
+    "Generation": 7
+  },
+  {
+    "Name": "Solgaleo",
+    "Type": "psychic, steel",
+    "Form Type": "Legendary",
+    "Evolution": 3,
+    "Generation": 7
+  },
+  {
+    "Name": "Lunala",
+    "Type": "psychic, ghost",
+    "Form Type": "Legendary",
+    "Evolution": "",
+    "Generation": 7
+  },
+  {
+    "Name": "Nihilego",
+    "Type": "rock, poison",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Buzzwole",
+    "Type": "bug, fighting",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Pheromosa",
+    "Type": "bug, fighting",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Xurkitree",
+    "Type": "electric",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Celesteela",
+    "Type": "steel, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Kartana",
+    "Type": "grass, steel",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Guzzlord",
+    "Type": "dark, dragon",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Necrozma",
+    "Type": "psychic",
+    "Form Type": "Legendary",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Magearna",
+    "Type": "steel, fairy",
+    "Form Type": "Mythical",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Marshadow",
+    "Type": "fighting, ghost",
+    "Form Type": "Mythical",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Poipole",
+    "Type": "poison",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Naganadel",
+    "Type": "poison, dragon",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 7
+  },
+  {
+    "Name": "Stakataka",
+    "Type": "rock, steel",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Blacephalon",
+    "Type": "fire, ghost",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Zeraora",
+    "Type": "electric",
+    "Form Type": "Mythical",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Meltan",
+    "Type": "steel",
+    "Form Type": "Mythical",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Melmetal",
+    "Type": "steel",
+    "Form Type": "Mythical",
+    "Evolution": 1,
+    "Generation": 7
+  },
+  {
+    "Name": "Grookey",
+    "Type": "grass",
+    "Form Type": "Starter",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Thwackey",
+    "Type": "grass",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 8
+  },
+  {
+    "Name": "Rillaboom",
+    "Type": "grass",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 8
+  },
+  {
+    "Name": "Scorbunny",
+    "Type": "fire",
+    "Form Type": "Starter",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Raboot",
+    "Type": "fire",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 8
+  },
+  {
+    "Name": "Cinderace",
+    "Type": "fire",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 8
+  },
+  {
+    "Name": "Sobble",
+    "Type": "water",
+    "Form Type": "Starter",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Drizzile",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 8
+  },
+  {
+    "Name": "Inteleon",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 8
+  },
+  {
+    "Name": "Skwovet",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Greedent",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 8
+  },
+  {
+    "Name": "Rookidee",
+    "Type": "flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Corvisquire",
+    "Type": "flying",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 8
+  },
+  {
+    "Name": "Corviknight",
+    "Type": "flying, steel",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 8
+  },
+  {
+    "Name": "Blipbug",
+    "Type": "bug",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Dottler",
+    "Type": "bug, psychic",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 8
+  },
+  {
+    "Name": "Orbeetle",
+    "Type": "bug, psychic",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 8
+  },
+  {
+    "Name": "Nickit",
+    "Type": "dark",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Thievul",
+    "Type": "dark",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 8
+  },
+  {
+    "Name": "Gossifleur",
+    "Type": "grass",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Eldegoss",
+    "Type": "grass",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 8
+  },
+  {
+    "Name": "Wooloo",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Dubwool",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 8
+  },
+  {
+    "Name": "Chewtle",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Drednaw",
+    "Type": "water, rock",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 8
+  },
+  {
+    "Name": "Yamper",
+    "Type": "electric",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Boltund",
+    "Type": "electric",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 8
+  },
+  {
+    "Name": "Rolycoly",
+    "Type": "rock",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Carkol",
+    "Type": "rock, fire",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 8
+  },
+  {
+    "Name": "Coalossal",
+    "Type": "rock, fire",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 8
+  },
+  {
+    "Name": "Applin",
+    "Type": "grass, dragon",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Flapple",
+    "Type": "grass, dragon",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 8
+  },
+  {
+    "Name": "Appletun",
+    "Type": "grass, dragon",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": 8
+  },
+  {
+    "Name": "Silicobra",
+    "Type": "ground",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Sandaconda",
+    "Type": "ground",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 8
+  },
+  {
+    "Name": "Cramorant",
+    "Type": "flying, water",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Arrokuda",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Barraskewda",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 8
+  },
+  {
+    "Name": "Toxel",
+    "Type": "electric, poison",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Toxtricity amped",
+    "Type": "electric, poison",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": ""
+  },
+  {
+    "Name": "Sizzlipede",
+    "Type": "fire, bug",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Centiskorch",
+    "Type": "fire, bug",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 8
+  },
+  {
+    "Name": "Clobbopus",
+    "Type": "fighting",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Grapploct",
+    "Type": "fighting",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 8
+  },
+  {
+    "Name": "Sinistea",
+    "Type": "ghost",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Polteageist",
+    "Type": "ghost",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 8
+  },
+  {
+    "Name": "Hatenna",
+    "Type": "psychic",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Hattrem",
+    "Type": "psychic",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 8
+  },
+  {
+    "Name": "Hatterene",
+    "Type": "psychic, fairy",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 8
+  },
+  {
+    "Name": "Impidimp",
+    "Type": "dark, fairy",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Morgrem",
+    "Type": "dark, fairy",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 8
+  },
+  {
+    "Name": "Grimmsnarl",
+    "Type": "dark, fairy",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 8
+  },
+  {
+    "Name": "Obstagoon",
+    "Type": "dark, normal",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 8
+  },
+  {
+    "Name": "Perrserker",
+    "Type": "steel",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": 8
+  },
+  {
+    "Name": "Cursola",
+    "Type": "ghost",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 8
+  },
+  {
+    "Name": "Sirfetchd",
+    "Type": "fighting",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 8
+  },
+  {
+    "Name": "Mr rime",
+    "Type": "ice, psychic",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 8
+  },
+  {
+    "Name": "Runerigus",
+    "Type": "ground, ghost",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": 8
+  },
+  {
+    "Name": "Milcery",
+    "Type": "fairy",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Alcremie",
+    "Type": "fairy",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 8
+  },
+  {
+    "Name": "Falinks",
+    "Type": "fighting",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Pincurchin",
+    "Type": "electric",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Snom",
+    "Type": "ice, bug",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Frosmoth",
+    "Type": "ice, bug",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 8
+  },
+  {
+    "Name": "Stonjourner",
+    "Type": "rock",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Eiscue ice",
+    "Type": "ice",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": ""
+  },
+  {
+    "Name": "Indeedee male",
+    "Type": "psychic, normal",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": ""
+  },
+  {
+    "Name": "Morpeko full belly",
+    "Type": "electric, dark",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": ""
+  },
+  {
+    "Name": "Cufant",
+    "Type": "steel",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Copperajah",
+    "Type": "steel",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 8
+  },
+  {
+    "Name": "Dracozolt",
+    "Type": "electric, dragon",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Arctozolt",
+    "Type": "electric, ice",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Dracovish",
+    "Type": "water, dragon",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Arctovish",
+    "Type": "water, ice",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Duraludon",
+    "Type": "steel, dragon",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Dreepy",
+    "Type": "dragon, ghost",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Drakloak",
+    "Type": "dragon, ghost",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 8
+  },
+  {
+    "Name": "Dragapult",
+    "Type": "dragon, ghost",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 8
+  },
+  {
+    "Name": "Zacian",
+    "Type": "fairy",
+    "Form Type": "Legendary",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Zamazenta",
+    "Type": "fighting",
+    "Form Type": "Legendary",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Eternatus",
+    "Type": "poison, dragon",
+    "Form Type": "Legendary",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Kubfu",
+    "Type": "fighting",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Urshifu single strike",
+    "Type": "fighting, dark",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": ""
+  },
+  {
+    "Name": "Zarude",
+    "Type": "dark, grass",
+    "Form Type": "Mythical",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Regieleki",
+    "Type": "electric",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Regidrago",
+    "Type": "dragon",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Glastrier",
+    "Type": "ice",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Spectrier",
+    "Type": "ghost",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Calyrex",
+    "Type": "psychic, grass",
+    "Form Type": "Legendary",
+    "Evolution": 1,
+    "Generation": 8
+  },
+  {
+    "Name": "Wyrdeer",
+    "Type": "normal, psychic",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 8
+  },
+  {
+    "Name": "Kleavor",
+    "Type": "bug, rock",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": 8
+  },
+  {
+    "Name": "Ursaluna",
+    "Type": "ground, normal",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 8
+  },
+  {
+    "Name": "Basculegion male",
+    "Type": "water, ghost",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": ""
+  },
+  {
+    "Name": "Sneasler",
+    "Type": "fighting, poison",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": 8
+  },
+  {
+    "Name": "Overqwil",
+    "Type": "dark, poison",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 8
+  },
+  {
+    "Name": "Enamorus incarnate",
+    "Type": "fairy, flying",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": ""
+  },
+  {
+    "Name": "Sprigatito",
+    "Type": "grass",
+    "Form Type": "Starter",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Floragato",
+    "Type": "grass",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 9
+  },
+  {
+    "Name": "Meowscarada",
+    "Type": "grass, dark",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 9
+  },
+  {
+    "Name": "Fuecoco",
+    "Type": "fire",
+    "Form Type": "Starter",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Crocalor",
+    "Type": "fire",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 9
+  },
+  {
+    "Name": "Skeledirge",
+    "Type": "fire, ghost",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 9
+  },
+  {
+    "Name": "Quaxly",
+    "Type": "water",
+    "Form Type": "Starter",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Quaxwell",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 9
+  },
+  {
+    "Name": "Quaquaval",
+    "Type": "water, fighting",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 9
+  },
+  {
+    "Name": "Lechonk",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Oinkologne",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 9
+  },
+  {
+    "Name": "Tarountula",
+    "Type": "bug",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Spidops",
+    "Type": "bug",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 9
+  },
+  {
+    "Name": "Nymble",
+    "Type": "bug",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Lokix",
+    "Type": "bug, dark",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 9
+  },
+  {
+    "Name": "Pawmi",
+    "Type": "electric",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Pawmo",
+    "Type": "electric, fighting",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 9
+  },
+  {
+    "Name": "Pawmot",
+    "Type": "electric, fighting",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 9
+  },
+  {
+    "Name": "Tandemaus",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Maushold",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 9
+  },
+  {
+    "Name": "Fidough",
+    "Type": "fairy",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Dachsbun",
+    "Type": "fairy",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 9
+  },
+  {
+    "Name": "Smoliv",
+    "Type": "grass, normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Dolliv",
+    "Type": "grass, normal",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 9
+  },
+  {
+    "Name": "Arboliva",
+    "Type": "grass, normal",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 9
+  },
+  {
+    "Name": "Squawkabilly",
+    "Type": "normal, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Nacli",
+    "Type": "rock",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Naclstack",
+    "Type": "rock",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 9
+  },
+  {
+    "Name": "Garganacl",
+    "Type": "rock",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 9
+  },
+  {
+    "Name": "Charcadet",
+    "Type": "fire",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Armarouge",
+    "Type": "fire, psychic",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 9
+  },
+  {
+    "Name": "Ceruledge",
+    "Type": "fire, ghost",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": 9
+  },
+  {
+    "Name": "Tadbulb",
+    "Type": "electric",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Bellibolt",
+    "Type": "electric",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 9
+  },
+  {
+    "Name": "Wattrel",
+    "Type": "electric, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Kilowattrel",
+    "Type": "electric, flying",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 9
+  },
+  {
+    "Name": "Maschiff",
+    "Type": "dark",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Mabosstiff",
+    "Type": "dark",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 9
+  },
+  {
+    "Name": "Shroodle",
+    "Type": "poison, normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Grafaiai",
+    "Type": "poison, normal",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 9
+  },
+  {
+    "Name": "Bramblin",
+    "Type": "grass, ghost",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Brambleghast",
+    "Type": "grass, ghost",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 9
+  },
+  {
+    "Name": "Toedscool",
+    "Type": "ground, grass",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Toedscruel",
+    "Type": "ground, grass",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 9
+  },
+  {
+    "Name": "Klawf",
+    "Type": "rock",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Capsakid",
+    "Type": "grass",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Scovillain",
+    "Type": "grass, fire",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 9
+  },
+  {
+    "Name": "Rellor",
+    "Type": "bug",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Rabsca",
+    "Type": "bug, psychic",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 9
+  },
+  {
+    "Name": "Flittle",
+    "Type": "psychic",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Espathra",
+    "Type": "psychic",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 9
+  },
+  {
+    "Name": "Tinkatink",
+    "Type": "fairy, steel",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Tinkatuff",
+    "Type": "fairy, steel",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 9
+  },
+  {
+    "Name": "Tinkaton",
+    "Type": "fairy, steel",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 9
+  },
+  {
+    "Name": "Wiglett",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Wugtrio",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 9
+  },
+  {
+    "Name": "Bombirdier",
+    "Type": "flying, dark",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Finizen",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Palafin",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 9
+  },
+  {
+    "Name": "Varoom",
+    "Type": "steel, poison",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Revavroom",
+    "Type": "steel, poison",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 9
+  },
+  {
+    "Name": "Cyclizar",
+    "Type": "dragon, normal",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Orthworm",
+    "Type": "steel",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Glimmet",
+    "Type": "rock, poison",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Glimmora",
+    "Type": "rock, poison",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 9
+  },
+  {
+    "Name": "Greavard",
+    "Type": "ghost",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Houndstone",
+    "Type": "ghost",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 9
+  },
+  {
+    "Name": "Flamigo",
+    "Type": "flying, fighting",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Cetoddle",
+    "Type": "ice",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Cetitan",
+    "Type": "ice",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 9
+  },
+  {
+    "Name": "Veluza",
+    "Type": "water, psychic",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Dondozo",
+    "Type": "water",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Tatsugiri",
+    "Type": "dragon, water",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Annihilape",
+    "Type": "fighting, ghost",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 9
+  },
+  {
+    "Name": "Clodsire",
+    "Type": "poison, ground",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": 9
+  },
+  {
+    "Name": "Farigiraf",
+    "Type": "normal, psychic",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 9
+  },
+  {
+    "Name": "Dudunsparce",
+    "Type": "normal",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 9
+  },
+  {
+    "Name": "Kingambit",
+    "Type": "dark, steel",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 9
+  },
+  {
+    "Name": "Great tusk",
+    "Type": "ground, fighting",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Scream tail",
+    "Type": "fairy, psychic",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Brute bonnet",
+    "Type": "grass, dark",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Flutter mane",
+    "Type": "ghost, fairy",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Slither wing",
+    "Type": "bug, fighting",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Sandy shocks",
+    "Type": "electric, ground",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Iron treads",
+    "Type": "ground, steel",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Iron bundle",
+    "Type": "ice, water",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Iron hands",
+    "Type": "fighting, electric",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Iron jugulis",
+    "Type": "dark, flying",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Iron moth",
+    "Type": "fire, poison",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Iron thorns",
+    "Type": "rock, electric",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Frigibax",
+    "Type": "dragon, ice",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Arctibax",
+    "Type": "dragon, ice",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 9
+  },
+  {
+    "Name": "Baxcalibur",
+    "Type": "dragon, ice",
+    "Form Type": "Regular",
+    "Evolution": 3,
+    "Generation": 9
+  },
+  {
+    "Name": "Gimmighoul",
+    "Type": "ghost",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Gholdengo",
+    "Type": "steel, ghost",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 9
+  },
+  {
+    "Name": "Wo chien",
+    "Type": "dark, grass",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Chien pao",
+    "Type": "dark, ice",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Ting lu",
+    "Type": "dark, ground",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Chi yu",
+    "Type": "dark, fire",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Roaring moon",
+    "Type": "dragon, dark",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Iron valiant",
+    "Type": "fairy, fighting",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Koraidon",
+    "Type": "fighting, dragon",
+    "Form Type": "Legendary",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Miraidon",
+    "Type": "electric, dragon",
+    "Form Type": "Legendary",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Walking wake",
+    "Type": "water, dragon",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Iron leaves",
+    "Type": "grass, psychic",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Dipplin",
+    "Type": "grass, dragon",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": 9
+  },
+  {
+    "Name": "Poltchageist",
+    "Type": "grass, ghost",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Sinistcha",
+    "Type": "grass, ghost",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 9
+  },
+  {
+    "Name": "Okidogi",
+    "Type": "poison, fighting",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Munkidori",
+    "Type": "poison, psychic",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Fezandipiti",
+    "Type": "poison, fairy",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Ogerpon",
+    "Type": "grass",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Archaludon",
+    "Type": "steel, dragon",
+    "Form Type": "Regular",
+    "Evolution": 2,
+    "Generation": 9
+  },
+  {
+    "Name": "Hydrapple",
+    "Type": "grass, dragon",
+    "Form Type": "Regular",
+    "Evolution": "",
+    "Generation": 9
+  },
+  {
+    "Name": "Gouging fire",
+    "Type": "fire, dragon",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Raging bolt",
+    "Type": "electric, dragon",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Iron boulder",
+    "Type": "rock, psychic",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Iron crown",
+    "Type": "steel, psychic",
+    "Form Type": "Regular",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Terapagos",
+    "Type": "normal",
+    "Form Type": "Legendary",
+    "Evolution": 1,
+    "Generation": 9
+  },
+  {
+    "Name": "Pecharunt",
+    "Type": "poison, ghost",
+    "Form Type": "Mythical",
+    "Evolution": 1,
+    "Generation": 9
+  }
+]

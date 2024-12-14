@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { getTrainers, createTrainer, deleteTrainer } from "./TrainerService";
 import "./Trainer.css";
-import { Link } from "react-router-dom"; // import link
 
 const Trainer = () => {
   const [trainers, setTrainers] = useState([]); // state to hold trainer data
@@ -45,12 +44,6 @@ const Trainer = () => {
 
   return (
     <div className="trainer-container">
-      {/* navigation link to Pokemon page */}
-      <div style={{ marginBottom: "20px" }}>
-        <Link to="/pokemon">
-          <button>Go to Pokémon Page</button>
-        </Link>
-      </div>
 
       <div className="form-container">
         <h3>Submit New Trainer</h3>

@@ -1,22 +1,40 @@
+/* Overall Navbar Styling */
 .navbar {
-  position: fixed;
-  bottom: 0; /* put on bottom */
-  left: 0;
-  right: 0;
   display: flex;
   justify-content: center;
-  padding: 20px;
-  background-color: #f8f8f8;
-  box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1); /* light shadow */
+  align-items: center;
+  background-color: #4caf50;
+  padding: 10px 0;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
 }
 
-.navbar a {
-  margin: 0 20px;
+/* Navbar Container */
+.navbar-container {
+  display: flex;
+  gap: 20px;
+}
+
+/* Links */
+.nav-link {
   text-decoration: none;
-  color: #333;
   font-size: 18px;
+  font-weight: 500;
+  color: white;
+  transition: color 0.3s ease;
 }
 
-.navbar a:hover {
-  color: #4caf50; /* hover color */
+/* Hover Effect */
+.nav-link:hover {
+  color: #f0f0f0;
 }
+
+/* Active Link Styling */
+.active-link {
+  font-weight: bold;
+  text-decoration: underline;
+  color: #f9d71c; /* Golden highlight for active link */
+}
+

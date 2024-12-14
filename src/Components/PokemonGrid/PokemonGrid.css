@@ -1,0 +1,33 @@
+.pokemon-grid-container {
+  padding: 20px;
+}
+
+.filters {
+  margin-bottom: 20px;
+}
+
+.filters input {
+  margin-right: 10px;
+  padding: 8px;
+  font-size: 16px;
+}
+
+.pokemon-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 20px;
+}
+
+.pokemon-card {
+  text-align: center;
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.pokemon-card img {
+  max-width: 100px;
+  margin-bottom: 10px;
+}
+
